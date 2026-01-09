@@ -17,3 +17,5 @@ A modern, interactive web dashboard built to manage student academic performance
 - **Backend Ready:** Optimized SQL Schema included for MySQL integration.
 
 ## 📸 Preview 
+Student-Result-Management-System
+neeharikashashisingh/Student-Result-Management-System
